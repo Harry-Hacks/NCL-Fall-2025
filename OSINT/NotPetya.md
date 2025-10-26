@@ -9,6 +9,7 @@ Once on the victim's network, NotPetya exploited an SMB vulnerability. What is t
 
 Q2 - 10 points
 What is the address of the Bitcoin wallet that the threat actors instructed the victims to pay money to?
+[Wallet](https://www.blockchain.com/explorer/search?search=1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX)
 
 Q3 - 10 points
 What was the original name of the malware file that could be used as a "vaccine" ?
