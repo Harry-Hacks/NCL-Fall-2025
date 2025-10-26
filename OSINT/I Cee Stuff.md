@@ -8,6 +8,10 @@ Note: The tools required for this challenge are legitimate in cybersecurity rese
 Q1 - 10 points
 On November 10, 2023, what GHDB number was assigned to the entry that would ONLY show you administrative login portals?
 
+Went to https://www.exploit-db.com/ghdb, looked at entries from that date and saw this one
+8337
+<img width="1224" height="666" alt="Screenshot 2025-10-26 at 5 01 56 PM" src="https://github.com/user-attachments/assets/9756753f-1556-4cac-8d50-7aafaabc5af6" />
+
 Q2 - 15 points
 As of August 21, 2025, how many total advisories had CISA issued concerning Siemens ICS products that are of either HIGH or CRITICAL vulnerability severity?
 
