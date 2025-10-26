@@ -4,6 +4,7 @@ The reason we know how bad some breaches are is because the incidents had to be 
 
 Q1 - 10 points
 What government database is used to record filings of cybersecurity incidents by publicly traded companies?
+EDGAR
 
 Q2 - 15 points
 How many material cybersecurity incident filings (excluding amendments) were made?
@@ -16,3 +17,4 @@ What is the name of the company that submitted the last material cybersecurity i
 
 Q5 - 20 points
 The 8-K made by 26-0138832 says "we discovered that the threat actor had accessed data related to..." what? (submit the rest of the sentence as your response)
+<img width="1361" height="684" alt="Screenshot 2025-10-27 at 12 32 22 AM" src="https://github.com/user-attachments/assets/8c7a0f60-29bf-42c5-9393-9b8b5f8f6fd0" />
