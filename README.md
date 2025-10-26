@@ -4,7 +4,7 @@ The National Cyber League (NCL) is a cybersecurity competition that prepares stu
 ## Categories
 | Module        | Challenges       | Questions  |
 | ------------- |:-------------:|:-----:|
-| [OSINT](https://github.com/Harry-Hacks/NCL-Fall-2025/tree/main/OSINT) | 6 | 28 |
+| [OSINT](https://github.com/Harry-Hacks/NCL-Fall-2025/blob/main/OSINT/OSINT%20Overview.md) | 6 | 28 |
 | [Cryptography](https://github.com/Harry-Hacks/NCL-Fall-2025/tree/main/Cryptography)| 6| 17 |
 | Password Cracking| 6 | 23|  
 | Log Analysis| 3 | 14 | 
