@@ -1,4 +1,4 @@
-## Cooking Breakfast (Easy, 45 points)
+# Cooking Breakfast (Easy, 45 points)
 The Liber8tion group has been sending recipes back and forth. One of our analysts tried one and realized that the recipes have wildly incorrect proportions for these recipes to even approximate food.
 
 Then, we sent it to our cryptographers, but they informed us that this is likely not a cipher. Given our profile on the Liber8tion group we suspect that this may be a program.
@@ -9,7 +9,7 @@ What programming language does this use?
 Q2 - 25 points
 What is the output of this program?
 
-# Code
+## Code
 ```
 Belgian Waffles.
 
@@ -45,7 +45,7 @@ Pour contents of the 1st mixing bowl into the 1st baking dish.
 Serves 1.
 ```
 
-# Answers 
+## Answers 
 Q1: Chef
 
 Q2: SKY-WAFF-1355
