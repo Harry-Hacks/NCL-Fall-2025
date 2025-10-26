@@ -3,6 +3,7 @@
 NotPetya devastated businesses in Ukraine and other parts of the world in 2017. Conduct research into this malware to answer the following questions.
 Note: Please assume that any relevant time zones will need to be in UTC.
 
+## Questions
 Q1 - 10 points
 Once on the victim's network, NotPetya exploited an SMB vulnerability. What is the CVE of this vulnerability?
 
